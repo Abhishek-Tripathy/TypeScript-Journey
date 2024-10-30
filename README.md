@@ -19,8 +19,8 @@ To follow along or set up TypeScript on your own, here’s how to get started!
 - Each folder represents a different concept or topic as I learn it.
 - Code snippets and notes are included for easy reference.
 
-
-#📌 Goals
+ 
+# 📌 Goals
 
 - To gain a thorough understanding of TypeScript from the ground up.
 - To document the learning process with code examples and notes for future reference.
